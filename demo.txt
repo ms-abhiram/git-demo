@@ -1,12 +1,7 @@
 Added in First Commit
 "AFTER REVERT"
-<<<<<<< HEAD
-"BEFORE REVERT"
-MF
-=======
->>>>>>> parent of 855b3e4 ("BEFORE REVERTING")
-"FEATURE BRANCH"
-
 Conflict solving
+
+Written from Feature
 
 
