@@ -4,4 +4,6 @@ Conflict solving
 
 Written from Feature
 
+Made for Stash
+
 
